@@ -1,5 +1,5 @@
 import technicianModel from '../models/technicianModel.js'
-import bcrypt from 'bcrypt'
+import bcrypt from 'bcryptjs'
 import jwt from 'jsonwebtoken'
 import bookingModel from '../models/bookingModel.js'
 
